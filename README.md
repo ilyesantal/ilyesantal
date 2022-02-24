@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilyesantal
 - 👀 I’m interested in embedded C and C++ programming
-- 🌱 I’m currently learning AVR and ESP32 microcontrollers
+- 🌱 I’m currently learning AVR and ESP32 microcontrollers, and Rust language
 - 💞️ I’m looking to collaborate on MCU projects with the mentionet MCUs or with others
 - 📫 ilyes.antal.97@gmail.com
 
